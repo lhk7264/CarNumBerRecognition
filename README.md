@@ -1,4 +1,4 @@
-# CarNumBerRecognition
+# CarNumBer_Recognition
 
 ##### Project Name : Raspberry Pi 차량 출입 관리 시스템
 
